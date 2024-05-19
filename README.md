@@ -2,7 +2,7 @@
 
 Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System
 
-![360°REA](asset\360REA.png)
+![Illustration of Solo Performance Prompting](asset/360REA.png) 
 
 ## Introduction
 
